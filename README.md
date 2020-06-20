@@ -3,7 +3,9 @@
 <h1>Overview</h1>
 Pyther is a tiny command-line utility for applying <a href="https://en.wikipedia.org/wiki/Ordered_dithering">ordered dithering</a> to images.
 
-![](https://github.com/PaulBenMarsh/pyther/blob/master/screenshots/screenshot.png?raw=true)
+<p align="center">
+<img src="https://github.com/PaulBenMarsh/pyther/blob/master/screenshots/screenshot.png?raw=true">
+</p>
 
 <h1>Dependencies</h1>
 <ul>
